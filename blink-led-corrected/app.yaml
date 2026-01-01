@@ -1,0 +1,5 @@
+name: Blink LED Corrected
+description: Poprawiono tak aby przy uruchamianiu aplikacji diody byly zgaszone.
+ports: []
+bricks: []
+icon: 🔴
