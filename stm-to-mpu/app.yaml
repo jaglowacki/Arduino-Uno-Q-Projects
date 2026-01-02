@@ -1,5 +1,5 @@
 name: STM to MPU
-description: ""
+description: "Sending data from serial in STM to MPU and print it in Python"
 ports: []
 bricks: []
 icon: 🔰
